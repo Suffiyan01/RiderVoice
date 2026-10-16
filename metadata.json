@@ -1,0 +1,8 @@
+{
+  "name": "RiderVoice",
+  "description": "Smart hands-free motorcycle rider voice intercom, helmet walkie-talkie, and cockpit voice companion.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
